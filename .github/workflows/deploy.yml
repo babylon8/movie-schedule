@@ -1,0 +1,22 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: npm install
+      - run: npm run build
+      - uses: actions/configure-pages@v4
+      - uses: actions/upload-pages-artifact@v2
+        with:
+          path: dist
+      - uses: actions/upload-artifact@v4
+        with:
+          name: build
+          path: dist
