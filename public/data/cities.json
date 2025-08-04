@@ -1,0 +1,52 @@
+[
+  {
+    "id": "LA",
+    "name": "Los Angeles",
+    "state_id": "CA"
+  },
+  {
+    "id": "SF",
+    "name": "San Francisco",
+    "state_id": "CA"
+  },
+  {
+    "id": "NYC",
+    "name": "New York City",
+    "state_id": "NY"
+  },
+  {
+    "id": "BUF",
+    "name": "Buffalo",
+    "state_id": "NY"
+  },
+  {
+    "id": "HOU",
+    "name": "Houston",
+    "state_id": "TX"
+  },
+  {
+    "id": "DAL",
+    "name": "Dallas",
+    "state_id": "TX"
+  },
+  {
+    "id": "MIA",
+    "name": "Miami",
+    "state_id": "FL"
+  },
+  {
+    "id": "ORL",
+    "name": "Orlando",
+    "state_id": "FL"
+  },
+  {
+    "id": "CHI",
+    "name": "Chicago",
+    "state_id": "IL"
+  },
+  {
+    "id": "SPR",
+    "name": "Springfield",
+    "state_id": "IL"
+  }
+]

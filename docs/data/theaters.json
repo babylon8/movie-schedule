@@ -1,0 +1,82 @@
+[
+  {
+    "id": "AMC_LA",
+    "name": "AMC Century City",
+    "address": "10250 Santa Monica Blvd, Los Angeles, CA 90067",
+    "city_id": "LA",
+    "phone": "(310) 277-3731",
+    "seating_capacity": 500
+  },
+  {
+    "id": "REGAL_LA",
+    "name": "Regal LA Live",
+    "address": "1000 W Olympic Blvd, Los Angeles, CA 90015",
+    "city_id": "LA",
+    "phone": "(213) 763-5500",
+    "seating_capacity": 450
+  },
+  {
+    "id": "AMC_SF",
+    "name": "AMC Metreon",
+    "address": "135 4th St, San Francisco, CA 94103",
+    "city_id": "SF",
+    "phone": "(415) 369-6262",
+    "seating_capacity": 400
+  },
+  {
+    "id": "REGAL_NYC",
+    "name": "Regal E-Walk",
+    "address": "131 E 47th St, New York, NY 10017",
+    "city_id": "NYC",
+    "phone": "(212) 302-2557",
+    "seating_capacity": 600
+  },
+  {
+    "id": "AMC_NYC",
+    "name": "AMC Empire 25",
+    "address": "234 W 42nd St, New York, NY 10036",
+    "city_id": "NYC",
+    "phone": "(888) 262-4386",
+    "seating_capacity": 700
+  },
+  {
+    "id": "AMC_HOU",
+    "name": "AMC Houston 8",
+    "address": "14205 Katy Fwy, Houston, TX 77079",
+    "city_id": "HOU",
+    "phone": "(281) 501-0818",
+    "seating_capacity": 350
+  },
+  {
+    "id": "REGAL_DAL",
+    "name": "Regal West Plano",
+    "address": "6001 N Central Expy, Dallas, TX 75206",
+    "city_id": "DAL",
+    "phone": "(214) 361-2555",
+    "seating_capacity": 400
+  },
+  {
+    "id": "AMC_MIA",
+    "name": "AMC Aventura",
+    "address": "19501 Biscayne Blvd, Aventura, FL 33180",
+    "city_id": "MIA",
+    "phone": "(305) 932-9398",
+    "seating_capacity": 550
+  },
+  {
+    "id": "REGAL_ORL",
+    "name": "Regal Orlando",
+    "address": "8285 S John Young Pkwy, Orlando, FL 32819",
+    "city_id": "ORL",
+    "phone": "(407) 256-9380",
+    "seating_capacity": 500
+  },
+  {
+    "id": "AMC_CHI",
+    "name": "AMC Dine-In Chicago 9",
+    "address": "835 N Michigan Ave, Chicago, IL 60611",
+    "city_id": "CHI",
+    "phone": "(312) 944-3838",
+    "seating_capacity": 450
+  }
+]

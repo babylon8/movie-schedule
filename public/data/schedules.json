@@ -1,0 +1,90 @@
+[
+  {
+    "id": "SCH001",
+    "movie_id": "MOV001",
+    "theater_id": "AMC_LA",
+    "showtimes": ["10:00", "13:30", "17:00", "20:30"],
+    "date": "2025-08-03",
+    "ticket_price": 12.50
+  },
+  {
+    "id": "SCH002",
+    "movie_id": "MOV002",
+    "theater_id": "AMC_LA",
+    "showtimes": ["11:00", "14:30", "18:00", "21:30"],
+    "date": "2025-08-03",
+    "ticket_price": 12.50
+  },
+  {
+    "id": "SCH003",
+    "movie_id": "MOV003",
+    "theater_id": "REGAL_LA",
+    "showtimes": ["12:00", "15:30", "19:00", "22:30"],
+    "date": "2025-08-03",
+    "ticket_price": 13.00
+  },
+  {
+    "id": "SCH004",
+    "movie_id": "MOV001",
+    "theater_id": "AMC_SF",
+    "showtimes": ["10:30", "14:00", "17:30", "21:00"],
+    "date": "2025-08-03",
+    "ticket_price": 12.50
+  },
+  {
+    "id": "SCH005",
+    "movie_id": "MOV004",
+    "theater_id": "REGAL_NYC",
+    "showtimes": ["11:30", "15:00", "18:30", "22:00"],
+    "date": "2025-08-03",
+    "ticket_price": 14.00
+  },
+  {
+    "id": "SCH006",
+    "movie_id": "MOV002",
+    "theater_id": "AMC_NYC",
+    "showtimes": ["10:00", "13:30", "17:00", "20:30"],
+    "date": "2025-08-03",
+    "ticket_price": 14.00
+  },
+  {
+    "id": "SCH007",
+    "movie_id": "MOV005",
+    "theater_id": "AMC_HOU",
+    "showtimes": ["12:00", "15:30", "19:00", "22:30"],
+    "date": "2025-08-03",
+    "ticket_price": 11.50
+  },
+  {
+    "id": "SCH008",
+    "movie_id": "MOV003",
+    "theater_id": "REGAL_DAL",
+    "showtimes": ["11:00", "14:30", "18:00", "21:30"],
+    "date": "2025-08-03",
+    "ticket_price": 12.00
+  },
+  {
+    "id": "SCH009",
+    "movie_id": "MOV004",
+    "theater_id": "AMC_MIA",
+    "showtimes": ["13:00", "16:30", "20:00", "23:30"],
+    "date": "2025-08-03",
+    "ticket_price": 13.50
+  },
+  {
+    "id": "SCH010",
+    "movie_id": "MOV001",
+    "theater_id": "REGAL_ORL",
+    "showtimes": ["10:30", "14:00", "17:30", "21:00"],
+    "date": "2025-08-03",
+    "ticket_price": 13.00
+  },
+  {
+    "id": "SCH011",
+    "movie_id": "MOV005",
+    "theater_id": "AMC_CHI",
+    "showtimes": ["12:30", "16:00", "19:30", "23:00"],
+    "date": "2025-08-03",
+    "ticket_price": 12.50
+  }
+]

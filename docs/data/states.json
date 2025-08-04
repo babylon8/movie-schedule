@@ -1,0 +1,27 @@
+[
+  {
+    "id": "CA",
+    "name": "California",
+    "abbreviation": "CA"
+  },
+  {
+    "id": "NY",
+    "name": "New York",
+    "abbreviation": "NY"
+  },
+  {
+    "id": "TX",
+    "name": "Texas",
+    "abbreviation": "TX"
+  },
+  {
+    "id": "FL",
+    "name": "Florida",
+    "abbreviation": "FL"
+  },
+  {
+    "id": "IL",
+    "name": "Illinois",
+    "abbreviation": "IL"
+  }
+]
